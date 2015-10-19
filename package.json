@@ -1,14 +1,16 @@
 {
-  "name": "grunt-contrib-koa",
+  "name": "grunt-koa",
   "version": "1.0.0",
   "description": "",
-  "main": "grunt-contrib-koa.js",
+  "files": [
+    "tasks"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rally25rs/grunt-contrib-koa.git"
+    "url": "git+https://github.com/rally25rs/grunt-koa.git"
   },
   "keywords": [
     "nodejs",
@@ -18,7 +20,10 @@
   "author": "Jeff Valore",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/rally25rs/grunt-contrib-koa/issues"
+    "url": "https://github.com/rally25rs/grunt-koa/issues"
   },
-  "homepage": "https://github.com/rally25rs/grunt-contrib-koa#readme"
+  "homepage": "https://github.com/rally25rs/grunt-koa#readme",
+  "devDependencies": {
+    "koa": "^1.1.0"
+  }
 }
