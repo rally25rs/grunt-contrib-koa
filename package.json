@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rally25rs/grunt-koa#readme",
   "devDependencies": {
-    "koa": "^1.1.0"
+    "koa": "^1.1.0",
+    "koa-static": "^1.4.9"
   }
 }
