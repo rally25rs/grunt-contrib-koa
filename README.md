@@ -4,6 +4,8 @@ This is a [Grunt](http://gruntjs.com/) task for running a [Koa](http://koajs.com
 
 ## Installing
 
+Requires NodeJS v0.12.0 or greater. NodeJS 4 recommended.
+
 ```
 npm install grunt-koa --save-dev
 ```
